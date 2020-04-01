@@ -1,0 +1,4 @@
+#application.log
+
+#To ignore all log files
+*.log
